@@ -38,12 +38,12 @@ This repository is an official PyTorch implementation of the paper "**High-resol
 You can also train by yourself:
 
 ```
- python main.py  --scale=16  --save_real --dataset_name='NYU' --model_name='DAGF'
+ The training codes can be found at https://github.com/zhwzhong/Guided-Depth-Map-Super-resolution-A-Survey.
 ```
 
 
 
-### Test
+### Quick Test (We provide the trained models for test. The trained models can be can be found at.)
 
 ```
 python test.py
