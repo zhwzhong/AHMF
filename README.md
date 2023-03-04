@@ -1,4 +1,4 @@
-### :book: High-resolution Depth Maps Imaging via Attention-based Hierarchical Multi-modal Fusion
+### :book: High-resolution Depth Maps Imaging via Attention-based Hierarchical Multi-modal Fusion (IEEE TIP 2022)
 
 > [[Paper](https://https://arxiv.org/abs/2104.01530)] 
 > [Zhiwei Zhong](https://github.com/zhwzhong), [Xianming Liu](http://homepage.hit.edu.cn/xmliu?lang=en), [Junjun Jiang](https://scholar.google.com/citations?user=WNH2_rgAAAAJ&hl=en), [Debin Zhao](https://scholar.google.com/citations?user=QXyj0hkAAAAJ&hl=en) ,[Xiangyang Ji](https://ieeexplore.ieee.org/author/37271425200)<br>Harbin Institute of Technology, Tsinghua University
