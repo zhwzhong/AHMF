@@ -57,3 +57,16 @@ python test.py
 :e-mail: Contact
 
 If you have any question, please email `zhwzhong@hit.edu.cn` 
+
+### Cititation
+@ARTICLE{9642435,
+  author={Zhong, Zhiwei and Liu, Xianming and Jiang, Junjun and Zhao, Debin and Chen, Zhiwen and Ji, Xiangyang},
+  journal={IEEE Transactions on Image Processing}, 
+  title={High-Resolution Depth Maps Imaging via Attention-Based Hierarchical Multi-Modal Fusion}, 
+  year={2022},
+  volume={31},
+  number={},
+  pages={648-663},
+  doi={10.1109/TIP.2021.3131041}}
+
+
